@@ -1,5 +1,18 @@
 # Changelog
 
+## [26.10.0](https://github.com/Koenkk/zigbee-herdsman-converters/compare/v26.9.0...v26.10.0) (2026-02-22)
+
+
+### Features
+
+* **add:** SG45-E26 ([#11574](https://github.com/Koenkk/zigbee-herdsman-converters/issues/11574)) ([145ae9b](https://github.com/Koenkk/zigbee-herdsman-converters/commit/145ae9b86bfcdc5dc2a0a99dbe34bafe7d1f19a9))
+
+
+### Bug Fixes
+
+* Moes SFL02-Z-1: fix `indicator_status` ([#11573](https://github.com/Koenkk/zigbee-herdsman-converters/issues/11573)) ([b810bf7](https://github.com/Koenkk/zigbee-herdsman-converters/commit/b810bf73f8404628b6c4dda94da1c125f7f46c6a))
+* Tuya TS0601_water_valve: add more features https://github.com/Koenkk/zigbee-herdsman-converters/pull/11516 ([ce520ab](https://github.com/Koenkk/zigbee-herdsman-converters/commit/ce520abf31550c81220b57766cfa7fcda58d77be))
+
 ## [26.9.0](https://github.com/Koenkk/zigbee-herdsman-converters/compare/v26.8.0...v26.9.0) (2026-02-21)
 
 
